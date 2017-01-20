@@ -1,0 +1,4 @@
+Los componentes de Java son 3:
+El JDK, este es el compilador de Java en donde después de crear el archivo .java pasa por un compilador (JDK).
+El JRE, este es el que se encarga de interpretar lo que se ha hecho previamente en el compilador para poder que lo pueda correr en la maquina virtual de Java.
+El JVM, esta es la maquina virtual de Java en donde se ejecutan los programas, o sea, donde se ve el resulto de lo que has creado.
